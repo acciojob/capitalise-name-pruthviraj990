@@ -1,1 +1,10 @@
-/*  your css code here. If applicable */
+body {
+  font-family: Arial, sans-serif;
+  padding: 40px;
+}
+
+input {
+  padding: 10px;
+  font-size: 16px;
+  width: 300px;
+}
